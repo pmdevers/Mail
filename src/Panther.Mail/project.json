@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0-*",
-  "description": "",
-  "authors": [ "" ],
-  "tags": [ "" ],
-  "projectUrl": "",
-  "licenseUrl": "",
+    "description": "A DNX5.0 Core Smtp Client",
+    "authors": [ "Patrick Evers" ],
+    "tags": [ "Smtp" ],
+    "projectUrl": "https://github.com/pmdevers/Mail",
+    "licenseUrl": "https://raw.githubusercontent.com/pmdevers/Mail/master/LICENSE",
 
   "dependencies": {
   },
