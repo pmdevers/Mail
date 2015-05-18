@@ -1,10 +1,10 @@
 ﻿{
     "version": "1.0.0-*",
-    "description": "",
-    "authors": [ "" ],
-    "tags": [ "" ],
-    "projectUrl": "",
-    "licenseUrl": "",
+    "description": "A MVC Mail Action Result",
+    "authors": [ "Patrick Evers" ],
+    "tags": [ "Smtp" ],
+    "projectUrl": "https://github.com/pmdevers/Mail",
+    "licenseUrl": "https://raw.githubusercontent.com/pmdevers/Mail/master/LICENSE",
 
     "dependencies": {
         "Microsoft.AspNet.Mvc": "6.0.0-beta4",
