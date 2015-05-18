@@ -1,0 +1,27 @@
+﻿{
+    "version": "1.0.0-*",
+    "description": "",
+    "authors": [ "" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+        "Microsoft.AspNet.Mvc": "6.0.0-beta4",
+        "Microsoft.Framework.DependencyInjection.Interfaces": "1.0.0-beta4",
+        "Panther.Mail": "1.0.0-*"
+    },
+
+  "frameworks" : {
+    "dnx451": { },
+    "dnxcore50" : {
+      "dependencies": {
+        "System.Collections": "4.0.10-beta-22816",
+        "System.Linq": "4.0.0-beta-22816",
+        "System.Threading": "4.0.10-beta-22816",
+        "Microsoft.CSharp": "4.0.0-beta-22816"
+
+      }
+    }
+  }
+}
